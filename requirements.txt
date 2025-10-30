@@ -1,0 +1,4 @@
+pandas
+streamlit
+matplotlib==3.10.7
+scikit-learn
